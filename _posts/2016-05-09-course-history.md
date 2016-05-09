@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: The
-datePublished: '2016-05-09T17:53:34.275Z'
-dateModified: '2016-05-09T17:53:23.662Z'
+datePublished: '2016-05-09T17:57:43.558Z'
+dateModified: '2016-05-09T17:57:34.840Z'
 title: Course History
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: course-history/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 The
