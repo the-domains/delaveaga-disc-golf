@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The DeLaveaga Disc Golf Club
-datePublished: '2016-05-09T18:06:14.754Z'
-dateModified: '2016-05-09T18:06:03.242Z'
+datePublished: '2016-05-09T18:07:09.405Z'
+dateModified: '2016-05-09T18:07:07.984Z'
 title: Course History
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
@@ -44,3 +44,4 @@ Today it is estimated that DeLaveaga Disc Golf Course serves approximately 200 u
 The history of DDGC is more than just a remarkable story about the ways in which disc golf can transform public lands and create value for local residents, it has also produced some of the world's greatest disc golf talent. The DDGC has long upheld a philosophy that dictates "uncompromising challenge" as the highest standard for disc golf. The 2 meter rule is always in effect at DeLa (as is common throughout California). A par round at DeLaveaga in tournament arrangements is approximately 1000-rated (by PDGA standards), and will only be achieved by accomplished and highly skilled players. The hole designs offer some of the toughest risk vs. reward scenarios ever imagined. And the course can be cruel at times (e.g., the "DeLa roll"), to keep players humble. As a consequence of this philosophy, newer players develop critical skills (both mental and physical) more rapidly at DeLaveaga DGC than at most other courses. So it is no surprised that the top disc golfers at DeLaveaga, who call DeLa their home course, are also World Champions and consistently compete at the top of the disc golf world.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc93b19c-bcd2-4734-a8cb-8377f96ad69f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bdde4b7-3478-46e3-a5f7-f078df7fb9e9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b8f87b-ecfe-484e-a038-4e5781701af2.png)
