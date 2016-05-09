@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 2016 Masters Cup Champions
-datePublished: '2016-05-09T18:31:56.922Z'
-dateModified: '2016-05-09T18:31:35.665Z'
+datePublished: '2016-05-09T18:32:35.373Z'
+dateModified: '2016-05-09T18:32:04.070Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-2016-masters-cup-champions.md
