@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Welcome to Dela!'
-datePublished: '2016-05-09T18:01:47.282Z'
-dateModified: '2016-05-09T18:01:43.896Z'
+datePublished: '2016-05-09T18:02:45.998Z'
+dateModified: '2016-05-09T18:02:42.759Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-welcome-to-dela.md
