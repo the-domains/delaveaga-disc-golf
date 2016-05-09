@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: 2016 Masters Cup Champions
-datePublished: '2016-05-09T18:31:21.426Z'
-dateModified: '2016-05-09T18:31:14.617Z'
+datePublished: '2016-05-09T18:31:56.922Z'
+dateModified: '2016-05-09T18:31:35.665Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-2016-masters-cup-champions.md
@@ -18,7 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: same/index.html
+_type: Article
 
 ---
 2016 Masters Cup Champions
