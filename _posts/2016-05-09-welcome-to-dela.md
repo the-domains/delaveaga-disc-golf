@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to Dela!'
-datePublished: '2016-05-09T00:39:45.482Z'
-dateModified: '2016-05-09T00:38:55.416Z'
+datePublished: '2016-05-09T17:56:35.202Z'
+dateModified: '2016-05-09T17:55:47.229Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-welcome-to-dela.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-09-welcome-to-dela.md
+starred: true
 url: welcome-to-dela/index.html
 _type: Article
 
