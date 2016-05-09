@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '2016 AM Masters Cup Champions!'
-datePublished: '2016-05-09T18:40:54.720Z'
-dateModified: '2016-05-09T18:40:42.213Z'
+datePublished: '2016-05-09T18:41:47.243Z'
+dateModified: '2016-05-09T18:41:10.979Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-2016-masters-cup-champions.md
