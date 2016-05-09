@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The
-datePublished: '2016-05-09T17:57:43.558Z'
-dateModified: '2016-05-09T17:57:34.840Z'
+datePublished: '2016-05-09T18:02:32.924Z'
+dateModified: '2016-05-09T18:02:28.555Z'
 title: Course History
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
