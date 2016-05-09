@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Welcome to Dela!'
-datePublished: '2016-05-09T17:59:10.082Z'
-dateModified: '2016-05-09T17:58:44.411Z'
+datePublished: '2016-05-09T18:01:47.282Z'
+dateModified: '2016-05-09T18:01:43.896Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-welcome-to-dela.md
@@ -17,8 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: true
-url: welcome-to-dela/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd48340-58be-4485-b000-f506af4a678e.jpg)
