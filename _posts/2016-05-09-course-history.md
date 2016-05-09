@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The DeLaveaga Disc Golf Club
-datePublished: '2016-05-09T18:09:26.162Z'
-dateModified: '2016-05-09T18:08:56.962Z'
+datePublished: '2016-05-09T18:10:08.574Z'
+dateModified: '2016-05-09T18:10:05.951Z'
 title: Course History
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
