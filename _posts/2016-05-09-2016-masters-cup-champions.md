@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-09T18:35:50.741Z'
-dateModified: '2016-05-09T18:35:42.897Z'
+datePublished: '2016-05-09T18:37:46.470Z'
+dateModified: '2016-05-09T18:37:39.096Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-2016-masters-cup-champions.md
