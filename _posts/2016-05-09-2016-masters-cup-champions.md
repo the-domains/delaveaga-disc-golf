@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '2016 AM Masters Cup Champions!'
-datePublished: '2016-05-10T14:25:56.453Z'
-dateModified: '2016-05-10T14:25:52.069Z'
+datePublished: '2016-05-10T14:26:26.599Z'
+dateModified: '2016-05-10T14:26:15.545Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-2016-masters-cup-champions.md
@@ -26,45 +26,31 @@ _type: WebPage
 
 ## Unofficial Results
 
-### Advanced
-
-(76)
+### Advanced(76)
 
 [Show round ratings][0]
 
-### Advanced Women
-
-(8)
+### Advanced Women(8)
 
 [Show round ratings][0]
 
-### Advanced Masters
-
-(32)
+### Advanced Masters(32)
 
 [Show round ratings][0]
 
-### Advanced Masters Women
-
-(3)
+### Advanced Masters Women(3)
 
 [Show round ratings][0]
 
-### Advanced Grandmasters
-
-(16)
+### Advanced Grandmasters(16)
 
 [Show round ratings][0]
 
-### Advanced Senior Grandmasters
-
-(8)
+### Advanced Senior Grandmasters(8)
 
 [Show round ratings][0]
 
-### Intermediate
-
-(29)
+### Intermediate(29)
 
 [Show round ratings][0]
 
