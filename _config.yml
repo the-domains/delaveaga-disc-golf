@@ -1,41 +1,41 @@
-name: delaveaga disc golf
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49723
 title: DeLaVeaga Disc Golf
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5197133
+  brandStrength: 0.5
+  lightness: 1
   brandColors:
     - '#232929'
     - '#fffef9'
     - '#4a6379'
     - '#bab0a9'
     - '#b96f81'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.6236559
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: delaveaga disc golf
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.49723
+layout_spectrum: 0
