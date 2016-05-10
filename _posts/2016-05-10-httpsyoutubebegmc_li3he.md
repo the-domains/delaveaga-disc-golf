@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/bEGmC_li3hE'
-datePublished: '2016-05-10T13:44:38.392Z'
-dateModified: '2016-05-10T13:44:30.165Z'
+datePublished: '2016-05-10T13:45:45.581Z'
+dateModified: '2016-05-10T13:45:13.268Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-httpsyoutubebegmc_li3he.md
