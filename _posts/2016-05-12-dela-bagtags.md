@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'DeLa Happenings:'
-datePublished: '2016-05-12T22:46:58.659Z'
-dateModified: '2016-05-12T22:46:55.137Z'
+datePublished: '2016-05-12T22:50:33.793Z'
+dateModified: '2016-05-12T22:50:16.404Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-bagtags.md
