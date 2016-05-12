@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Following is a list of the commonly observed rules of play at DeLaveaga. These rules are enforced at tournaments:'
-datePublished: '2016-05-12T19:55:30.448Z'
-dateModified: '2016-05-12T19:55:23.618Z'
+datePublished: '2016-05-12T19:56:16.817Z'
+dateModified: '2016-05-12T19:56:14.185Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-rules.md
@@ -21,6 +21,8 @@ url: dela-rules/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68c78a5-ee3d-46fe-ba28-71a2dfffab09.gif)
+
 Following is a list of the commonly observed rules of play at DeLaveaga. These rules are enforced at tournaments:
 
 * **All Holes:**The 2 meter rule is in effect. If your disc comes to rest in a tree or any other kind of object, such that its lowermost edge is more than 2 meters above the ground (measured along a vertical line, parallel to gravity), then the disc is considered OB. A penalty throw is added to the score on a hole for each 2 meter rule violation. The lie for the subsequent throw shall be marked directly below the disc (following procedures as if the disc were projected onto the ground).
