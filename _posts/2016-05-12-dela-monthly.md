@@ -1,14 +1,15 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'he DeLaveaga Disc Golf Club hosts a one round monthly tournament the first Saturday of every month. This is a bag tag event, anyone can play.'
-datePublished: '2016-05-12T19:42:46.869Z'
-dateModified: '2016-05-12T19:42:40.901Z'
+description: 'The DeLaveaga Disc Golf Club hosts a one round monthly tournament the first Saturday of every month. This is a bag tag event, anyone can play.'
+datePublished: '2016-05-12T19:45:06.545Z'
+dateModified: '2016-05-12T19:43:44.236Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-dela-monthly.md
 authors: []
 publisher:
   name: null
@@ -16,12 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-dela-monthly.md
 url: dela-monthly/index.html
-_type: Blurb
+_type: WebPage
 
 ---
-he DeLaveaga Disc Golf Club hosts a one round monthly tournament the first Saturday of every month. This is a bag tag event, anyone can play.
+The DeLaveaga Disc Golf Club hosts a one round monthly tournament the first Saturday of every month. This is a bag tag event, anyone can play.
 
 Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:
 
