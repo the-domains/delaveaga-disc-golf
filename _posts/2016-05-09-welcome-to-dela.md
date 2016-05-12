@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T22:59:05.167Z'
-dateModified: '2016-05-12T22:57:59.536Z'
+datePublished: '2016-05-12T23:01:10.714Z'
+dateModified: '2016-05-12T23:00:53.064Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-welcome-to-dela.md
@@ -27,7 +27,7 @@ _type: Blurb
 
 ## **_DeLaVeaga_**
 
-## ****Disc Golf Club & Course******Welcome **to the World Famous
+## ****Disc Golf Club & Course****
 
 ## User Census
 
