@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'During daylight savings time, when there is sufficient sunlight, current club members holding bag tags play an evening round of 18 select holes beginning around 4:30PM-5:00PM every Thursday.'
-datePublished: '2016-05-12T19:46:06.685Z'
-dateModified: '2016-05-12T19:44:15.927Z'
+datePublished: '2016-05-12T19:49:21.468Z'
+dateModified: '2016-05-12T19:46:13.509Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-bagtags.md
