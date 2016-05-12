@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'The DeLaveaga Disc Golf Club hosts a one round monthly tournament the first Saturday of every month. This is a bag tag event, anyone can play.'
-datePublished: '2016-05-12T20:00:00.832Z'
-dateModified: '2016-05-12T19:58:17.628Z'
+datePublished: '2016-05-12T22:43:33.014Z'
+dateModified: '2016-05-12T20:00:04.296Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-bagtags.md
