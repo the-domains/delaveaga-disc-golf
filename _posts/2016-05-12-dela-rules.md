@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Following is a list of the commonly observed rules of play at DeLaveaga. These rules are enforced at tournaments:'
-datePublished: '2016-05-12T22:44:01.234Z'
-dateModified: '2016-05-12T22:43:46.253Z'
+description: 'DeLa Rules:'
+datePublished: '2016-05-12T22:46:29.564Z'
+dateModified: '2016-05-12T22:46:23.603Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-rules.md
@@ -21,6 +21,8 @@ url: dela-rules/index.html
 _type: WebPage
 
 ---
+DeLa Rules:
+
 Following is a list of the commonly observed rules of play at DeLaveaga. These rules are enforced at tournaments:
 
 * **All Holes:**The 2 meter rule is in effect. If your disc comes to rest in a tree or any other kind of object, such that its lowermost edge is more than 2 meters above the ground (measured along a vertical line, parallel to gravity), then the disc is considered OB. A penalty throw is added to the score on a hole for each 2 meter rule violation. The lie for the subsequent throw shall be marked directly below the disc (following procedures as if the disc were projected onto the ground).
@@ -31,5 +33,3 @@ Following is a list of the commonly observed rules of play at DeLaveaga. These r
 * **Hole 24:**Mandatory, must pass to the right of the small oak (an arrow is fixed to the tree). The drop zone for a missed mando is behind a line drawn to the right of the mando (perpendicular to the line between the basket and the mando tree).
 * **Hole 26a:**Rope along the left edge of the fairway defines OB. This OB line applies only to 26a, and is not in effect on hole 26\. There is no drop zone.
 * **Hole 27:**For a lost disc, use the drop zone located beneath the olive tree at the corner of the tree stand behind tee 25\. If a disc goes OB, the player has the option to throw from this DZ or from where the disc went OB.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0e30182-af1b-486f-86ef-240846435c27.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/588b7253-2413-433f-b44d-d38f5abba3e1.jpg)
