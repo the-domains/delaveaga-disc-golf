@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Following is a list of the commonly observed rules of play at DeLaveaga. These rules are enforced at tournaments:'
-datePublished: '2016-05-12T19:32:49.318Z'
-dateModified: '2016-05-12T19:32:39.269Z'
+datePublished: '2016-05-12T19:55:30.448Z'
+dateModified: '2016-05-12T19:55:23.618Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-dela-rules.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-dela-rules.md
 url: dela-rules/index.html
 _type: WebPage
 
@@ -31,3 +31,4 @@ Following is a list of the commonly observed rules of play at DeLaveaga. These r
 * **Hole 24:**Mandatory, must pass to the right of the small oak (an arrow is fixed to the tree). The drop zone for a missed mando is behind a line drawn to the right of the mando (perpendicular to the line between the basket and the mando tree).
 * **Hole 26a:**Rope along the left edge of the fairway defines OB. This OB line applies only to 26a, and is not in effect on hole 26\. There is no drop zone.
 * **Hole 27:**For a lost disc, use the drop zone located beneath the olive tree at the corner of the tree stand behind tee 25\. If a disc goes OB, the player has the option to throw from this DZ or from where the disc went OB.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0e30182-af1b-486f-86ef-240846435c27.jpg)
