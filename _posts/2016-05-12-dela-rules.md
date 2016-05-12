@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Following is a list of the commonly observed rules of play at DeLaveaga. These rules are enforced at tournaments:'
-datePublished: '2016-05-12T20:00:33.230Z'
-dateModified: '2016-05-12T19:57:51.788Z'
+datePublished: '2016-05-12T22:42:52.386Z'
+dateModified: '2016-05-12T20:00:39.234Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-rules.md
