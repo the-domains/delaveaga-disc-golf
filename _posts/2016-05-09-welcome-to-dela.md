@@ -5,10 +5,10 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Welcome to the World Famous '
-datePublished: '2016-05-12T22:54:26.975Z'
-dateModified: '2016-05-12T22:53:55.913Z'
-title: ''
+description: ''
+datePublished: '2016-05-12T22:57:53.431Z'
+dateModified: '2016-05-12T22:57:20.477Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-05-09-welcome-to-dela.md
 authors: []
@@ -21,12 +21,15 @@ starred: true
 _type: Blurb
 
 ---
-**Welcome** to the World Famous 
-
-**_DeLaVeaga_** Disc Golf Club & Course
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd48340-58be-4485-b000-f506af4a678e.jpg)
 
-# User Census
+## ****
+
+## **_DeLaVeaga_**
+
+## ****Disc Golf Club & Course******Welcome **to the World Famous
+
+## User Census
 
 DeLaveaga Disc Golf Course is one of the top recreation destinations in Santa Cruz, with hundreds of users visiting the course every day. A user count (census) has not been conducted in recent years, although the club is considering doing one soon.
 
