@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Welcome to Dela!'
-datePublished: '2016-05-09T18:02:45.998Z'
-dateModified: '2016-05-09T18:02:42.759Z'
+description: 'Welcome to the World Famous '
+datePublished: '2016-05-12T22:49:07.824Z'
+dateModified: '2016-05-12T22:49:03.966Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-welcome-to-dela.md
@@ -21,9 +21,10 @@ starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd48340-58be-4485-b000-f506af4a678e.jpg)
+**Welcome** to the World Famous 
 
-Welcome to Dela!
+**_DeLaVeaga_** Disc Golf Club & Course
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd48340-58be-4485-b000-f506af4a678e.jpg)
 
 # User Census
 
