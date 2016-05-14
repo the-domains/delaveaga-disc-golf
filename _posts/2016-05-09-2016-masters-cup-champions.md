@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: '2016 AM Masters Cup Champions!'
-datePublished: '2016-05-12T19:30:55.090Z'
-dateModified: '2016-05-12T19:30:54.485Z'
+datePublished: '2016-05-14T02:24:03.168Z'
+dateModified: '2016-05-14T02:23:59.135Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-2016-masters-cup-champions.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: 2016-am-masters-cup-champions/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 2016 AM Masters Cup Champions!
