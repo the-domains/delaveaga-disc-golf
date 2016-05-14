@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!'
-datePublished: '2016-05-14T18:00:00.614Z'
-dateModified: '2016-05-14T17:59:50.842Z'
+datePublished: '2016-05-14T18:02:28.524Z'
+dateModified: '2016-05-14T18:02:03.294Z'
 title: The DeLaveaga Disc Golf Club
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
@@ -28,7 +28,6 @@ is one of the oldest disc golf clubs. The DDGC was established around 1985, with
 Course History
 
 Historically, disc golf was first played in the Santa Cruz area utilizing object courses. Certain trees, posts, or other objects were defined as the target for completing a hole. Much of the early disc golf activity in Santa Cruz took place on the campus of the University of California, Santa Cruz. Disc golf had also been played informally using objects in DeLaveaga Park, some in the same area that is now part of the DeLaveaga Disc Golf Course.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab62fc97-a2d0-4807-82b5-bddb1dfed571.jpg)
 
 DeLaveaga Park itself is part of a complex land trust donated to the government for recreational and educational purposes, near the end of the 19th century. The legal status of the trust long remained uncertain owing to laws restricting the allocation of private estates to the public. The branch of government that utilized the DeLaveaga park land most was the California National Guard, for purposes of training and readiness. During World War II the ridge that now hosts hole 27 (Top of the World) was used by the military as a lookout post (note: the trees were not so tall back then, so the view of the sea was much more expansive). In the early days of DeLaveaga disc golf, it was not uncommon to see tanks or other tracked vehicles making their way through parts of the park property.
 
@@ -58,4 +57,4 @@ Following is a list of the commonly observed rules of play at DeLaveaga. These r
 * **Hole 24:**Mandatory, must pass to the right of the small oak (an arrow is fixed to the tree). The drop zone for a missed mando is behind a line drawn to the right of the mando (perpendicular to the line between the basket and the mando tree).
 * **Hole 26a:**Rope along the left edge of the fairway defines OB. This OB line applies only to 26a, and is not in effect on hole 26\. There is no drop zone.
 * **Hole 27:**For a lost disc, use the drop zone located beneath the olive tree at the corner of the tree stand behind tee 25\. If a disc goes OB, the player has the option to throw from this DZ or from where the disc went OB.
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e42e8e-6ac5-48f6-99e4-358d45f27e48.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e42e8e-6ac5-48f6-99e4-358d45f27e48.gif)
