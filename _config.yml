@@ -1,6 +1,6 @@
 name: delaveaga disc golf
 favicon: null
-layout_spectrum: 0.74871
+layout_spectrum: 0.49642
 typography_spectrum: 0.50065
 title: DeLaVeaga Disc Golf
 collections:
@@ -35,7 +35,7 @@ color:
     - '#ecc2b9'
     - '#93335f'
   brandStrength: 1
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
