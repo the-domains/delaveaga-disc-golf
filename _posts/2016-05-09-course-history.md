@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!'
-datePublished: '2016-05-14T17:58:23.266Z'
-dateModified: '2016-05-14T17:58:19.305Z'
+datePublished: '2016-05-14T17:59:45.142Z'
+dateModified: '2016-05-14T17:59:15.503Z'
 title: The DeLaveaga Disc Golf Club
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
@@ -22,13 +22,13 @@ _type: WebPage
 
 ---
 ## The DeLaveaga Disc Golf Club
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab62fc97-a2d0-4807-82b5-bddb1dfed571.jpg)
 
 is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!
 
 Course History
 
 Historically, disc golf was first played in the Santa Cruz area utilizing object courses. Certain trees, posts, or other objects were defined as the target for completing a hole. Much of the early disc golf activity in Santa Cruz took place on the campus of the University of California, Santa Cruz. Disc golf had also been played informally using objects in DeLaveaga Park, some in the same area that is now part of the DeLaveaga Disc Golf Course.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab62fc97-a2d0-4807-82b5-bddb1dfed571.jpg)
 
 DeLaveaga Park itself is part of a complex land trust donated to the government for recreational and educational purposes, near the end of the 19th century. The legal status of the trust long remained uncertain owing to laws restricting the allocation of private estates to the public. The branch of government that utilized the DeLaveaga park land most was the California National Guard, for purposes of training and readiness. During World War II the ridge that now hosts hole 27 (Top of the World) was used by the military as a lookout post (note: the trees were not so tall back then, so the view of the sea was much more expansive). In the early days of DeLaveaga disc golf, it was not uncommon to see tanks or other tracked vehicles making their way through parts of the park property.
 
