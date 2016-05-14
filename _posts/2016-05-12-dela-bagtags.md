@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:'
-datePublished: '2016-05-14T17:55:11.677Z'
-dateModified: '2016-05-14T17:55:07.326Z'
+datePublished: '2016-05-14T18:16:05.805Z'
+dateModified: '2016-05-14T18:15:59.324Z'
 title: 'Events:'
 author: []
 sourcePath: _posts/2016-05-12-dela-bagtags.md
@@ -21,8 +21,6 @@ url: events/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/748c7b17-44ef-4d47-9554-70addcd74730.jpg)
-
 # Events:
 
 ## Monthly Tournament
@@ -35,6 +33,7 @@ Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:
 * Ams -- $10
 * Women (Pro and Am) -- $10
 * Rec -- $5
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/748c7b17-44ef-4d47-9554-70addcd74730.jpg)
 
 $5 from every entry is a donation to the DDGC for course improvements and helping to promote disc golf in the Bay area.
 
