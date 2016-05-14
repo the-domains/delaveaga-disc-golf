@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: 'DeLa Rules:'
-datePublished: '2016-05-14T16:40:26.984Z'
-dateModified: '2016-05-14T16:39:45.406Z'
+datePublished: '2016-05-14T16:47:33.249Z'
+dateModified: '2016-05-14T16:47:29.183Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-rules.md
@@ -16,9 +16,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: dela-rules/index.html
-_type: Article
+_type: Blurb
 
 ---
 DeLa Rules:
