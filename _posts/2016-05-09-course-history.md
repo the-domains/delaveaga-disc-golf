@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!'
-datePublished: '2016-05-14T18:17:10.704Z'
-dateModified: '2016-05-14T18:16:59.708Z'
-title: The DeLaveaga Disc Golf Club
+datePublished: '2016-05-14T18:18:54.128Z'
+dateModified: '2016-05-14T18:17:58.380Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
 authors: []
@@ -21,6 +21,8 @@ url: course-history/index.html
 _type: WebPage
 
 ---
+## 
+
 ## The DeLaveaga Disc Golf Club
 
 is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!
