@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'DeLa Rules:'
-datePublished: '2016-05-14T15:19:15.164Z'
-dateModified: '2016-05-14T15:18:35.368Z'
+datePublished: '2016-05-14T16:40:26.984Z'
+dateModified: '2016-05-14T16:39:45.406Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-rules.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: dela-rules/index.html
 _type: Article
 
