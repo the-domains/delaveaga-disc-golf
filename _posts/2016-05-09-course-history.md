@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: The DeLaveaga Disc Golf Club
-datePublished: '2016-05-14T16:53:00.951Z'
-dateModified: '2016-05-14T16:52:54.391Z'
-title: Course History
+description: 'is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!'
+datePublished: '2016-05-14T17:38:33.871Z'
+dateModified: '2016-05-14T17:38:33.280Z'
+title: The DeLaveaga Disc Golf Club
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
 authors: []
@@ -21,11 +21,11 @@ url: course-history/index.html
 _type: WebPage
 
 ---
-The **DeLaveaga Disc Golf Club**
+## The DeLaveaga Disc Golf Club
 
 is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!
 
-## Course History
+Course History
 
 Historically, disc golf was first played in the Santa Cruz area utilizing object courses. Certain trees, posts, or other objects were defined as the target for completing a hole. Much of the early disc golf activity in Santa Cruz took place on the campus of the University of California, Santa Cruz. Disc golf had also been played informally using objects in DeLaveaga Park, some in the same area that is now part of the DeLaveaga Disc Golf Course.
 
@@ -39,6 +39,19 @@ The introduction of disc golf into Upper DeLaveaga Wilderness Park completely tr
 
 Today it is estimated that DeLaveaga Disc Golf Course serves approximately 200 users every day, on average. There is no fee for playing the course, although the city of Santa Cruz now requires those using the parking lot to pay a $2 parking fee (annual parking permits are available from the city for $40).
 
-## Crucible of Champions
+Crucible of Champions
 
 The history of DDGC is more than just a remarkable story about the ways in which disc golf can transform public lands and create value for local residents, it has also produced some of the world's greatest disc golf talent. The DDGC has long upheld a philosophy that dictates "uncompromising challenge" as the highest standard for disc golf. The 2 meter rule is always in effect at DeLa (as is common throughout California). A par round at DeLaveaga in tournament arrangements is approximately 1000-rated (by PDGA standards), and will only be achieved by accomplished and highly skilled players. The hole designs offer some of the toughest risk vs. reward scenarios ever imagined. And the course can be cruel at times (e.g., the "DeLa roll"), to keep players humble. As a consequence of this philosophy, newer players develop critical skills (both mental and physical) more rapidly at DeLaveaga DGC than at most other courses. So it is no surprised that the top disc golfers at DeLaveaga, who call DeLa their home course, are also World Champions and consistently compete at the top of the disc golf world.
+
+## DeLa Rules:
+
+Following is a list of the commonly observed rules of play at DeLaveaga. These rules are enforced at tournaments:
+
+* **All Holes:**The 2 meter rule is in effect. If your disc comes to rest in a tree or any other kind of object, such that its lowermost edge is more than 2 meters above the ground (measured along a vertical line, parallel to gravity), then the disc is considered OB. A penalty throw is added to the score on a hole for each 2 meter rule violation. The lie for the subsequent throw shall be marked directly below the disc (following procedures as if the disc were projected onto the ground).
+* **All Holes:**Inner edge of all bounding road and beyond is OB, except on holes 20&22\. OB edge may be defined by rope during tournament play; if no rope, edge of pavement is OB.
+* **Hole 1:**Double mandatory, must pass between 2 large Monterey pine tree (red arrows are fixed to the trunks). Drop zone is located just left (about 10′ downhill) of the mando tree on the right.
+* **Hole 6:**The ditch to the right just before the road is OB. The edge of the OB is defined by a rope.
+* **Hole 20&22:**Surrounded by pavement is OB, but it is OK to throw across the road. The road plays like a river.
+* **Hole 24:**Mandatory, must pass to the right of the small oak (an arrow is fixed to the tree). The drop zone for a missed mando is behind a line drawn to the right of the mando (perpendicular to the line between the basket and the mando tree).
+* **Hole 26a:**Rope along the left edge of the fairway defines OB. This OB line applies only to 26a, and is not in effect on hole 26\. There is no drop zone.
+* **Hole 27:**For a lost disc, use the drop zone located beneath the olive tree at the corner of the tree stand behind tee 25\. If a disc goes OB, the player has the option to throw from this DZ or from where the disc went OB.
