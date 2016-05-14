@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!'
-datePublished: '2016-05-14T17:52:27.322Z'
-dateModified: '2016-05-14T17:52:23.010Z'
+datePublished: '2016-05-14T17:58:23.266Z'
+dateModified: '2016-05-14T17:58:19.305Z'
 title: The DeLaveaga Disc Golf Club
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
@@ -22,6 +22,7 @@ _type: WebPage
 
 ---
 ## The DeLaveaga Disc Golf Club
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab62fc97-a2d0-4807-82b5-bddb1dfed571.jpg)
 
 is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!
 
@@ -57,5 +58,4 @@ Following is a list of the commonly observed rules of play at DeLaveaga. These r
 * **Hole 24:**Mandatory, must pass to the right of the small oak (an arrow is fixed to the tree). The drop zone for a missed mando is behind a line drawn to the right of the mando (perpendicular to the line between the basket and the mando tree).
 * **Hole 26a:**Rope along the left edge of the fairway defines OB. This OB line applies only to 26a, and is not in effect on hole 26\. There is no drop zone.
 * **Hole 27:**For a lost disc, use the drop zone located beneath the olive tree at the corner of the tree stand behind tee 25\. If a disc goes OB, the player has the option to throw from this DZ or from where the disc went OB.
-* -----------------------------------------------------------------------------------------
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e42e8e-6ac5-48f6-99e4-358d45f27e48.gif)
+* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e42e8e-6ac5-48f6-99e4-358d45f27e48.gif)
