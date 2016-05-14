@@ -1,12 +1,13 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'DeLa Happenings:'
-datePublished: '2016-05-14T02:28:35.231Z'
-dateModified: '2016-05-14T02:28:24.258Z'
+datePublished: '2016-05-14T15:14:32.707Z'
+dateModified: '2016-05-14T15:12:30.331Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-dela-bagtags.md
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: dela-bagtags/index.html
 _type: Blurb
 
 ---
