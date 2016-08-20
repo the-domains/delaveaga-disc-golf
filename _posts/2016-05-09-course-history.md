@@ -1,34 +1,34 @@
 ---
+datePublished: '2016-08-20T15:31:52.477Z'
+sourcePath: _posts/2016-05-09-course-history.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-20T15:31:52.094Z'
+title: 'About Us:'
+publisher: {}
 description: >-
   is one of the oldest disc golf clubs. The DDGC was established around 1985,
   with a core of 30 Charter Members and a mission to develop and maintain disc
   golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200
   members and is still growing strong!
-datePublished: '2016-08-20T15:30:59.829Z'
-dateModified: '2016-08-20T15:30:59.268Z'
-title: ''
-author: []
-sourcePath: _posts/2016-05-09-course-history.md
-authors: []
-publisher: {}
-via: {}
+inLanguage: null
+inNav: true
 starred: true
 url: course-history/index.html
 _type: WebPage
 
 ---
-## 
-
-## The DeLaveaga Disc Golf Club
+## About Us:
 
 is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!
 
 Course History
+
+## The DeLaveaga Disc Golf Club
 
 Historically, disc golf was first played in the Santa Cruz area utilizing object courses. Certain trees, posts, or other objects were defined as the target for completing a hole. Much of the early disc golf activity in Santa Cruz took place on the campus of the University of California, Santa Cruz. Disc golf had also been played informally using objects in DeLaveaga Park, some in the same area that is now part of the DeLaveaga Disc Golf Course.
 
@@ -62,4 +62,4 @@ Following is a list of the commonly observed rules of play at DeLaveaga. These r
 * **Hole 27:**For a lost disc, use the drop zone located beneath the olive tree at the corner of the tree stand behind tee 25\. If a disc goes OB, the player has the option to throw from this DZ or from where the disc went OB.
 
 ## Course Map
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e42e8e-6ac5-48f6-99e4-358d45f27e48.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/808d2a11e40b7f29d0fb097a718bd5cc76eef68f.gif)
