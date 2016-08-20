@@ -9,15 +9,15 @@ description: >-
   with a core of 30 Charter Members and a mission to develop and maintain disc
   golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200
   members and is still growing strong!
-datePublished: '2016-08-20T14:18:59.053Z'
-dateModified: '2016-08-20T14:18:58.635Z'
+datePublished: '2016-08-20T15:06:58.927Z'
+dateModified: '2016-08-20T15:06:58.540Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-course-history.md
 authors: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 url: course-history/index.html
 _type: WebPage
 
