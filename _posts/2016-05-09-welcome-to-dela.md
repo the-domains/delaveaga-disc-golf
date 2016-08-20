@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T17:51:08.762Z'
-dateModified: '2016-05-14T17:51:05.753Z'
+datePublished: '2016-08-20T15:30:00.471Z'
+dateModified: '2016-08-20T15:30:00.001Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-welcome-to-dela.md
@@ -17,7 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+via: {}
+starred: true
 _type: Blurb
 
 ---
