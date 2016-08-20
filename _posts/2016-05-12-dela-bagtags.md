@@ -1,21 +1,21 @@
 ---
-datePublished: '2016-08-20T15:06:36.046Z'
+datePublished: '2016-08-20T16:30:51.444Z'
 sourcePath: _posts/2016-05-12-dela-bagtags.md
 inFeed: true
+isBasedOnUrl: null
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T15:06:35.464Z'
+dateModified: '2016-08-20T16:30:50.920Z'
 title: 'Events:'
 publisher: {}
 description: 'Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:'
 inLanguage: null
 inNav: true
 starred: true
-url: events/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Events:
