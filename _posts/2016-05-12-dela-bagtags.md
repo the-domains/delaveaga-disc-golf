@@ -1,36 +1,36 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:'
-datePublished: '2016-08-20T15:06:20.087Z'
-dateModified: '2016-08-20T15:06:19.612Z'
-title: 'Events:'
-author: []
+datePublished: '2016-08-20T15:06:36.046Z'
 sourcePath: _posts/2016-05-12-dela-bagtags.md
+inFeed: true
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-20T15:06:35.464Z'
+title: 'Events:'
+publisher: {}
+description: 'Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:'
+inLanguage: null
+inNav: true
 starred: true
 url: events/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Events:
 
 ## Monthly Tournament
 
-The DeLaveaga Disc Golf Club hosts a one round **monthly tournament** the first Saturday of every month. This is a bag tag event, anyone can play.
-
 Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:
+
+The DeLaveaga Disc Golf Club hosts a one round **monthly tournament** the first Saturday of every month. This is a bag tag event, anyone can play.
 
 * Pro -- $20
 * Ams -- $10
 * Women (Pro and Am) -- $10
 * Rec -- $5
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/748c7b17-44ef-4d47-9554-70addcd74730.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ea97e68fdb1c9169d72ac734dd36831c8b96d9.jpg)
 
 $5 from every entry is a donation to the DDGC for course improvements and helping to promote disc golf in the Bay area.
 
