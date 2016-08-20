@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: ' Events'
+  - name: ' About us'
     id: a9684dc5-b338-4e4e-a924-7f0812c28f99
     type: content
 favicon: null
