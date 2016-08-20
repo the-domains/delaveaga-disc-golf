@@ -45,4 +45,5 @@ collections:
     permalink:
       path: '/:title/'
 title: DeLaVeaga Disc Golf
+description: Top of the world
 purpose: []
