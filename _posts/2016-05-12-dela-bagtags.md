@@ -5,15 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Sign in by 9AM, tee off 9:30AM. The entry fees are as follows:'
-datePublished: '2016-08-20T14:20:16.309Z'
-dateModified: '2016-08-20T14:20:15.795Z'
+datePublished: '2016-08-20T15:06:20.087Z'
+dateModified: '2016-08-20T15:06:19.612Z'
 title: 'Events:'
 author: []
 sourcePath: _posts/2016-05-12-dela-bagtags.md
 authors: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 url: events/index.html
 _type: WebPage
 
