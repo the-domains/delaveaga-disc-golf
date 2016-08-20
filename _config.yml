@@ -28,6 +28,9 @@ navigation:
   - name: ' About Us'
     id: a9684dc5-b338-4e4e-a924-7f0812c28f99
     type: content
+  - name: 'Events:'
+    id: a79a8371-cab3-425c-99eb-eecdfeeb2ae7
+    type: content
 favicon: null
 collections:
   - index:
