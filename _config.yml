@@ -1,4 +1,3 @@
-layout_spectrum: 0.5526661700569093
 typography_spectrum: 0.6708845982793719
 color:
   saturation: 0.12244893424212933
@@ -11,8 +10,21 @@ color:
     - '#3498DB'
     - '#2980B9'
   rhythmicContrast: 0.7974697961471975
-title: DeLaVeaga Disc Golf
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5526661700569093
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: De LaVeaga Disc Golf
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -25,22 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: DeLaVeaga Disc Golf
 description: Top of the world
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: De LaVeaga Disc Golf
-favicon: null
-navigation:
-  - name: ' About us'
-    id: a9684dc5-b338-4e4e-a924-7f0812c28f99
-    type: content
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
