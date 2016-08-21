@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T08:27:55.387Z'
+datePublished: '2016-08-21T08:29:03.508Z'
 sourcePath: _posts/2016-05-09-course-history.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T08:27:54.984Z'
+dateModified: '2016-08-21T08:29:03.111Z'
 title: 'About Us:'
 publisher: {}
 description: >-
