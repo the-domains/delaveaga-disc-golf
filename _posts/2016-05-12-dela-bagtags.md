@@ -9,12 +9,12 @@ description: >-
   Disc Golf Club hosts a one round monthly tournament the first Saturday of
   every month. This is a bag tag event, anyone can play. Pro – $20 Ams – $10
   Women (Pro and Am) – $10 Rec – $5
-datePublished: '2016-08-21T08:52:21.827Z'
-dateModified: '2016-08-21T08:51:59.494Z'
+datePublished: '2016-08-21T08:53:45.936Z'
+dateModified: '2016-08-21T08:53:18.500Z'
 sourcePath: _posts/2016-05-12-dela-bagtags.md
 author: []
 via: {}
-title: ' '
+title: ''
 authors: []
 publisher:
   name: null
@@ -26,14 +26,13 @@ url: monthly-tournament/index.html
 _type: Article
 
 ---
-# 
+# ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ea97e68fdb1c9169d72ac734dd36831c8b96d9.jpg)
 
 # Monthly Tournament
 
 Sign in by 9AM, tee off 9:30AM. The entry fees are as follows: The DeLaveaga Disc Golf Club hosts a one round monthly tournament the first Saturday of every month. This is a bag tag event, anyone can play. Pro -- $20 Ams -- $10 Women (Pro and Am) -- $10 Rec -- $5
 
 $5 from every entry is a donation to the DDGC for course improvements and helping to promote disc golf in the Bay area.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ea97e68fdb1c9169d72ac734dd36831c8b96d9.jpg)
 
 # Bag Tags
 
