@@ -9,8 +9,8 @@ description: >-
   Disc Golf Club hosts a one round monthly tournament the first Saturday of
   every month. This is a bag tag event, anyone can play. Pro – $20 Ams – $10
   Women (Pro and Am) – $10 Rec – $5
-datePublished: '2016-08-21T08:53:45.936Z'
-dateModified: '2016-08-21T08:53:18.500Z'
+datePublished: '2016-08-21T08:54:11.628Z'
+dateModified: '2016-08-21T08:53:46.538Z'
 sourcePath: _posts/2016-05-12-dela-bagtags.md
 author: []
 via: {}
