@@ -1,21 +1,19 @@
 ---
-datePublished: '2016-08-21T08:03:16.856Z'
+datePublished: '2016-08-21T08:14:30.983Z'
 sourcePath: _posts/2016-05-09-course-history.md
 inFeed: true
 isBasedOnUrl: null
 authors: []
 hasPage: false
 keywords: []
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
-dateModified: '2016-08-21T08:03:16.329Z'
+dateModified: '2016-08-21T08:14:30.546Z'
 title: 'About Us:'
 publisher: {}
-description: >-
-  is one of the oldest disc golf clubs. The DDGC was established around 1985,
-  with a core of 30 Charter Members and a mission to develop and maintain disc
-  golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200
-  members and is still growing strong!
+description: Course History
 inLanguage: null
 inNav: true
 starred: false
@@ -24,11 +22,11 @@ _type: Blurb
 ---
 ## About Us:
 
-is one of the oldest disc golf clubs. The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!
+## The DDGC was established around 1985, with a core of 30 Charter Members and a mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park. The club grew to well over 200 members and is still growing strong!
 
 Course History
 
-## The DeLaveaga Disc Golf Club
+The DeLaveaga Disc Golf Club
 
 Historically, disc golf was first played in the Santa Cruz area utilizing object courses. Certain trees, posts, or other objects were defined as the target for completing a hole. Much of the early disc golf activity in Santa Cruz took place on the campus of the University of California, Santa Cruz. Disc golf had also been played informally using objects in DeLaveaga Park, some in the same area that is now part of the DeLaveaga Disc Golf Course.
 
@@ -60,6 +58,4 @@ Following is a list of the commonly observed rules of play at DeLaveaga. These r
 * **Hole 24:**Mandatory, must pass to the right of the small oak (an arrow is fixed to the tree). The drop zone for a missed mando is behind a line drawn to the right of the mando (perpendicular to the line between the basket and the mando tree).
 * **Hole 26a:**Rope along the left edge of the fairway defines OB. This OB line applies only to 26a, and is not in effect on hole 26\. There is no drop zone.
 * **Hole 27:**For a lost disc, use the drop zone located beneath the olive tree at the corner of the tree stand behind tee 25\. If a disc goes OB, the player has the option to throw from this DZ or from where the disc went OB.
-
-## Course Map
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/808d2a11e40b7f29d0fb097a718bd5cc76eef68f.gif)
+![Course Map](https://s3-us-west-2.amazonaws.com/the-grid-img/p/808d2a11e40b7f29d0fb097a718bd5cc76eef68f.gif)
