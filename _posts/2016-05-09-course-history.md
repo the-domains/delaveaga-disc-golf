@@ -1,27 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: >-
-  The DDGC was established around 1985, with a core of 30 Charter Members and a
-  mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park.
-  The club grew to well over 200 members and is still growing strong!
-datePublished: '2016-08-21T08:46:31.727Z'
-dateModified: '2016-08-21T08:42:32.804Z'
+datePublished: '2016-08-21T08:57:58.307Z'
 sourcePath: _posts/2016-05-09-course-history.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: ''
     url: ''
 via: {}
+dateModified: '2016-08-21T08:57:57.946Z'
 title: 'About Us:'
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: >-
+  The DDGC was established around 1985, with a core of 30 Charter Members and a
+  mission to develop and maintain disc golf in Upper DeLaveaga Wilderness Park.
+  The club grew to well over 200 members and is still growing strong!
+inLanguage: null
+inNav: true
 starred: false
 url: about-us/index.html
 _type: Article
