@@ -1,29 +1,7 @@
-typography_spectrum: 0.6118700772058219
-color:
-  saturation: 0.17398592690005898
-  brandStrength: 0.012316704960539937
-  lightness: 0.18693237099796534
-  brandColors:
-    - '#050505'
-    - '#31455E'
-    - '#AFC1D9'
-    - '#DDE3EF'
-    - '#848952'
-  rhythmicContrast: 0.9236901132389903
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.4985856718849391
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 name: De LaVeaga Disc Golf
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+layout_spectrum: 0.4985856718849391
+typography_spectrum: 0.6118700772058219
 navigation:
   - name: PDGA
     url: 'http://www.pdga.com'
@@ -31,7 +9,6 @@ navigation:
   - name: Pinto Lake DG Course
     url: 'http://www.pintolakediscgolf.com'
     type: external
-favicon: null
 collections:
   - index:
       path: /
@@ -46,4 +23,27 @@ collections:
       path: '/:title/'
 title: DeLaVeaga Disc Golf
 description: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#050505'
+    - '#31455E'
+    - '#AFC1D9'
+    - '#DDE3EF'
+    - '#848952'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
