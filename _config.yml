@@ -24,23 +24,23 @@ color:
     - '#B64926'
     - '#8E2800'
   rhythmicContrast: 0.6146954
-navigation:
-  - name: ' About us'
-    id: a9684dc5-b338-4e4e-a924-7f0812c28f99
-    type: content
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: De LaVeaga Disc Golf
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+navigation:
+  - name: ' About us'
+    id: a9684dc5-b338-4e4e-a924-7f0812c28f99
+    type: content
+name: De LaVeaga Disc Golf
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6899642
-layout_spectrum: 0.7867383
+layout_spectrum: 0.9569892
