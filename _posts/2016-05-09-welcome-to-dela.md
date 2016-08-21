@@ -10,15 +10,15 @@ description: >-
   Cruz, with hundreds of users visiting the course every day. A user count
   (census) has not been conducted in recent years, although the club is
   considering doing one soon.
-datePublished: '2016-08-21T08:45:30.758Z'
-dateModified: '2016-08-21T08:45:16.413Z'
+datePublished: '2016-08-21T08:46:20.755Z'
+dateModified: '2016-08-21T08:45:59.064Z'
 sourcePath: _posts/2016-05-09-welcome-to-dela.md
 author: []
 via: {}
 title: DeLaveaga SSA
 authors: []
 publisher: {}
-starred: false
+starred: true
 _type: Blurb
 
 ---
