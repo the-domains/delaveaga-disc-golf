@@ -1,7 +1,7 @@
 name: De LaVeaga Disc Golf
 favicon: null
 layout_spectrum: 0.99034
-typography_spectrum: 0.6118700772058219
+typography_spectrum: 1
 navigation:
   - name: PDGA
     url: 'http://www.pdga.com'
