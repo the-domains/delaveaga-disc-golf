@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-21T05:59:40.975Z'
+datePublished: '2016-08-21T08:03:16.856Z'
 sourcePath: _posts/2016-05-09-course-history.md
-inFeed: false
+inFeed: true
+isBasedOnUrl: null
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T05:40:12.672Z'
+dateModified: '2016-08-21T08:03:16.329Z'
 title: 'About Us:'
 publisher: {}
 description: >-
@@ -18,8 +19,7 @@ description: >-
 inLanguage: null
 inNav: true
 starred: false
-url: about-us/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ## About Us:
