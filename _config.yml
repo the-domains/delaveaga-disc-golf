@@ -1,3 +1,16 @@
+layout_spectrum: 0.5526661700569093
+typography_spectrum: 0.6708845982793719
+color:
+  saturation: 0.12244893424212933
+  brandStrength: 0.17576034530065954
+  lightness: 0.9702779981307685
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.7974697961471975
 title: DeLaVeaga Disc Golf
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Top of the world
-color:
-  saturation: 0.5232975
-  brandStrength: 0.5279003351461142
-  lightness: 0.4731183
-  brandColors:
-    - '#496B53'
-    - '#4F787A'
-    - '#79AFD5'
-    - '#6799B0'
-    - '#35484F'
-  rhythmicContrast: 0.6146954
 cta:
   bucket: null
   version: null
@@ -42,5 +44,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6899642
-layout_spectrum: 0
