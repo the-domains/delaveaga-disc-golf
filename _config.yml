@@ -6,41 +6,41 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: Top of the world
 color:
   saturation: 0.3172043
   brandStrength: 0.5279003351461142
-  lightness: 0.4731183
+  rhythmicContrast: 0.6146954
   brandColors:
     - '#468966'
     - '#FFF0A5'
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-  rhythmicContrast: 0.6146954
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
+  lightness: 0.4731183
 navigation:
   - name: ' About us'
     id: a9684dc5-b338-4e4e-a924-7f0812c28f99
     type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: De LaVeaga Disc Golf
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6899642
-layout_spectrum: 0.9569892
+layout_spectrum: 0
