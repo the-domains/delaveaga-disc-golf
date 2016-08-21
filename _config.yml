@@ -16,28 +16,28 @@ description: Top of the world
 color:
   saturation: 0.3172043
   brandStrength: 0.5279003351461142
-  rhythmicContrast: 0.6146954
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
   lightness: 0.4731183
-navigation:
-  - name: ' About us'
-    id: a9684dc5-b338-4e4e-a924-7f0812c28f99
-    type: content
+  brandColors:
+    - '#496B53'
+    - '#4F787A'
+    - '#79AFD5'
+    - '#6799B0'
+    - '#35484F'
+  rhythmicContrast: 0.6146954
 cta:
   bucket: null
   version: null
   domain: null
-name: De LaVeaga Disc Golf
+navigation:
+  - name: ' About us'
+    id: a9684dc5-b338-4e4e-a924-7f0812c28f99
+    type: content
 favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+name: De LaVeaga Disc Golf
 opengraph:
   image: null
   type: null
